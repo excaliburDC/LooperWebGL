@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "837491264680-4srolcrouesmg9de8tkocseeq1tnmv6n.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztWjyU4HUvLqdLR37Mr1TvCZbNq7zSjA"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:837491264680:ios:2df54fba12a0c016bdc69d", 
+        "android_client_info": {
+          "package_name": "com.kwalee.looper"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "looper-20d97.appspot.com", 
+    "project_id": "looper-20d97", 
+    "firebase_url": "https://looper-20d97.firebaseio.com", 
+    "project_number": "837491264680"
+  }
+}
